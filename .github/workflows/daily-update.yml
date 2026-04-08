@@ -1,0 +1,45 @@
+name: Daily Filter Update
+
+on:
+  # Runs every day at 3:00 AM UTC (no one is watching, nice and quiet)
+  schedule:
+    - cron: '0 3 * * *'
+
+  # Also allows you to click "Run workflow" manually from GitHub any time
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force update even if no changes detected'
+        required: false
+        default: 'false'
+
+jobs:
+  update-filters:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit + push back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run filter updater
+        run: python update_filters.py
+
+      - name: Commit and push if filters changed
+        run: |
+          git config user.name  "Soothsayer Bot"
+          git config user.email "soothsayer-bot@users.noreply.github.com"
+          git add remote-filters.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit — filters are already current."
+          else
+            git commit -m "🔮 Auto-update filters $(date -u +%Y-%m-%d)"
+            git push
+            echo "✅ Filters committed and pushed."
+          fi
