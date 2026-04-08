@@ -180,10 +180,20 @@ def parse_abp_format(text):
         yt_hide_match = re.match(r'^(?:[^#]*youtube\.com[^#]*)##(.+)$', line)
         if yt_hide_match:
             selector = yt_hide_match.group(1).strip()
-            # Filter out extended CSS selectors (not standard CSS, won't work in content scripts)
-            if any(op in selector for op in [":has(", ":not-has(", ":matches-css", ":upward", ":xpath"]):
+            # Filter out uBlock scriptlets (+js(...)) — NOT valid CSS selectors
+            if selector.startswith('+js(') or selector.startswith('js('):
                 continue
-            # Only keep selectors that look ad-related (contain known ad keywords)
+            # Filter out extended CSS / procedural selectors (uBlock-only, not standard)
+            if any(op in selector for op in [
+                ":has(", ":not-has(", ":matches-css", ":upward(",
+                ":xpath(", ":matches-attr(", ":matches-prop(",
+                ":watch-attr(", ":min-text-length("
+            ]):
+                continue
+            # Must look like a real CSS selector (starts with . # [ or a tag name)
+            if not re.match(r'^[.#\[\w]', selector):
+                continue
+            # Only keep selectors that look ad-related
             sel_lower = selector.lower()
             ad_keywords = [
                 "ad", "ads", "adv", "sponsor", "promo", "promoted",
