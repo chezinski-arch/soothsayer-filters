@@ -1,0 +1,91 @@
+{
+  "_readme": "Host this file at your GitHub repo. The extension checks it every 24h. Update 'version' to trigger a refresh in all users' extensions.",
+  "version": "1.0.0",
+  "updated": "2026-04-08",
+
+  "blockDomains": [
+    "doubleclick.net",
+    "googlesyndication.com",
+    "googleadservices.com",
+    "adservice.google.com",
+    "amazon-adsystem.com",
+    "ads.twitter.com",
+    "adnxs.com",
+    "taboola.com",
+    "outbrain.com",
+    "moatads.com",
+    "adsafeprotected.com",
+    "media.net",
+    "openx.net",
+    "rubiconproject.com",
+    "pubmatic.com",
+    "criteo.com",
+    "scorecardresearch.com",
+    "quantserve.com",
+    "ads.linkedin.com",
+    "advertising.com",
+    "pubads.g.doubleclick.net",
+    "securepubads.g.doubleclick.net",
+    "smartadserver.com",
+    "serving-sys.com",
+    "yieldmanager.com",
+    "contextweb.com",
+    "bidswitch.net",
+    "mathtag.com",
+    "ad.adsrvr.org",
+    "trafficjunky.net"
+  ],
+
+  "youtubeSelectors": {
+    "_readme": "Update these when YouTube changes their class names. Each key replaces the bundled defaults.",
+    "skipButtons": [
+      ".ytp-skip-ad-button",
+      ".ytp-ad-skip-button",
+      ".ytp-ad-skip-button-container button",
+      "button.ytp-skip-ad-button"
+    ],
+    "adPlaying": [
+      ".ad-showing",
+      ".ytp-ad-player-overlay",
+      "[class*=\"ad-showing\"]"
+    ],
+    "overlayAds": [
+      ".ytp-ad-overlay-container",
+      ".ytp-ad-text-overlay",
+      ".ytp-ad-image-overlay",
+      ".ytp-ce-element",
+      ".ytp-suggested-action",
+      ".ytp-ad-overlay-close-button"
+    ],
+    "bannerAds": [
+      "#masthead-ad",
+      "ytd-display-ad-renderer",
+      "ytd-promoted-sparkles-web-renderer",
+      "ytd-promoted-video-renderer",
+      "ytd-compact-promoted-video-renderer",
+      "ytd-ad-slot-renderer",
+      "ytd-in-feed-ad-layout-renderer",
+      "#player-ads",
+      ".ytd-promoted-sparkles-text-search-renderer",
+      "ytd-banner-promo-renderer",
+      "ytd-statement-banner-renderer",
+      "ytd-primetime-promo-renderer",
+      "ytd-mealbar-promo-renderer",
+      "ytd-search-pyv-renderer"
+    ]
+  },
+
+  "generalSelectors": [
+    "[id*=\"google_ads_iframe\"]",
+    "[id*=\"google_ads_frame\"]",
+    "[id^=\"div-gpt-ad\"]",
+    "[id^=\"dfp-ad-\"]",
+    "ins.adsbygoogle",
+    ".adsbygoogle",
+    "div[id*=\"taboola\"]",
+    "div[id*=\"outbrain\"]",
+    ".OUTBRAIN",
+    "[aria-label=\"Sponsored\"]",
+    "[data-promoted=\"true\"]"
+  ]
+}

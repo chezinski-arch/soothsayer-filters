@@ -1,0 +1,71 @@
+/* Soothsayer AdBlocker — CSS-level ad hiding */
+/* This runs before JS, so ads are hidden even before the page fully loads */
+
+/* Google AdSense */
+ins.adsbygoogle,
+.adsbygoogle { display: none !important; }
+
+/* Generic ad patterns */
+[id*="google_ads_iframe"],
+[id*="google_ads_frame"],
+[id^="div-gpt-ad"],
+[id^="dfp-ad-"],
+[id^="ad-slot-"],
+[id^="adslot-"],
+[class^="ad-slot"],
+[class*=" ad-slot"],
+[class*="ad-wrapper"],
+[class*="ad-container"],
+[class*="ads-container"],
+[class*="ad-banner"],
+[class*="adunit"],
+[class*="ad-unit"] { display: none !important; }
+
+/* Promoted / Sponsored labels */
+[aria-label="Ad"],
+[aria-label="Ads"],
+[aria-label="Sponsored"],
+[data-ad-loaded="true"] { display: none !important; }
+
+/* Taboola */
+[id^="taboola"],
+[class*="taboola"],
+.OUTBRAIN,
+[id^="outbrain"],
+[class*="outbrain"] { display: none !important; }
+
+/* Sticky/floating ad bars */
+.sticky-ad,
+#sticky-ad,
+.fixed-ad,
+.ad-sticky,
+.ad-fixed { display: none !important; }
+
+/* iFrames from known ad domains */
+iframe[src*="doubleclick.net"],
+iframe[src*="googlesyndication.com"],
+iframe[src*="googleadservices.com"],
+iframe[src*="adnxs.com"],
+iframe[src*="taboola.com"],
+iframe[src*="outbrain.com"],
+iframe[src*="moatads.com"],
+iframe[src*="criteo.com"] { display: none !important; }
+
+/* YouTube-specific */
+.ytp-ad-overlay-container,
+.ytp-ad-text-overlay,
+.ytp-ad-image-overlay,
+.ytp-suggested-action,
+#masthead-ad,
+ytd-display-ad-renderer,
+ytd-promoted-sparkles-web-renderer,
+ytd-promoted-video-renderer,
+ytd-compact-promoted-video-renderer,
+ytd-ad-slot-renderer,
+ytd-in-feed-ad-layout-renderer,
+#player-ads,
+ytd-search-pyv-renderer,
+ytd-banner-promo-renderer,
+ytd-statement-banner-renderer,
+ytd-primetime-promo-renderer,
+ytd-mealbar-promo-renderer { display: none !important; }
