@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-04-16",
-  "updated": "2026-04-16",
+  "version": "2026-04-17",
+  "updated": "2026-04-17",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -168,6 +168,7 @@
     "125700.shop",
     "12b500858d.com",
     "12ezo5v60.com",
+    "12z1ipxqizlzluv5xwcy1i35.rest",
     "130gelh8q.de",
     "1338f95c76.com",
     "134f65414c.com",
@@ -757,6 +758,7 @@
     "4link.it",
     "4mxmfuf6q2gx5fthb9myujbnp.cfd",
     "4ng9qlkrnb6vu4poen44ox.rest",
+    "4nkpg756vvh6tq.cfd",
     "4p74i5b6.de",
     "4pnoo6qi5f2x9zzmrouxhmeo.cfd",
     "4qrucb5jc61yo93t.rest",
@@ -838,6 +840,7 @@
     "5c536d71ba.com",
     "5cb79f17b9.com",
     "5cumlrbo9y17z6.rest",
+    "5d1c052a11.com",
     "5d32q.com",
     "5d4d1bb29b.com",
     "5dimes.com",
@@ -1104,6 +1107,7 @@
     "7tvtn99fjf3btfj7u1k.rest",
     "7v6gvx5b5ywlu289zh.cfd",
     "7vf2llmkf59tl38o4ongf1c7.rest",
+    "7yjb6ihxfk7n57pt7ocmfi4ltbb8.rest",
     "7yormczmtp3owb3lf6lkk8y5ewovl4387i.rest",
     "7zvhi46y.xyz",
     "800482112b.com",
@@ -2998,11 +3002,7 @@
     "adsonar.com",
     "adsoptimal.com",
     "adsparc.net",
-    "adspdbl.com",
-    "adspector.io",
-    "adspeed.com",
-    "adspeed.net",
-    "adspi.xyz"
+    "adspdbl.com"
   ],
   "youtubeSelectors": {
     "skipButtons": [
