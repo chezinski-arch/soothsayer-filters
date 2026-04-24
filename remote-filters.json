@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-04-23",
-  "updated": "2026-04-23",
+  "version": "2026-04-24",
+  "updated": "2026-04-24",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -166,6 +166,7 @@
     "12112336.pix-cdn.org",
     "121networks.com",
     "123-stream.org",
+    "1233130091.com",
     "123date.me",
     "123vidz.com",
     "124d138eac.com",
@@ -669,6 +670,7 @@
     "3znoji162fuxp71whii.cfd",
     "4058e46800.com",
     "40ceexln7929.com",
+    "415f764d57.com",
     "4171ea7508.com",
     "41hckkm9.xyz",
     "4214nll6bt44z4lr3iv6jmbpf.rest",
@@ -863,6 +865,7 @@
     "5d32q.com",
     "5d4d1bb29b.com",
     "5dimes.com",
+    "5e1jng5u4lfi5i9qqi.rest",
     "5e4316klk7bv7c.rest",
     "5e80d21184.com",
     "5e9cb65c2c.com",
@@ -1054,6 +1057,7 @@
     "766935bca8.com",
     "76e3d5200b.com",
     "76ec5a61ac.com",
+    "76nkjujnx7k52j9.cfd",
     "777-partner.com",
     "777-partner.net",
     "777-partners.com",
@@ -1354,6 +1358,7 @@
     "9mjkg4uqmcpxe7.cfd",
     "9nizbbyf774vm14cp4e797zk.cfd",
     "9nmv95m7jl2wx31kk79p7648.cfd",
+    "9nr43xr2bu15iboz8z.rest",
     "9oic2m9no7jn7i.cfd",
     "9pub.io",
     "9s4l9nik.de",
@@ -2997,12 +3002,7 @@
     "adserverpub.com",
     "adserversolutions.com",
     "adserverxxl.de",
-    "adservice.google.com.mt",
-    "adservicemedia.dk",
-    "adserving.unibet.com",
-    "adservingfactory.com",
-    "adservingfront.com",
-    "adservon.com"
+    "adservice.google.com.mt"
   ],
   "youtubeSelectors": {
     "skipButtons": [
