@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-05-06",
-  "updated": "2026-05-06",
+  "version": "2026-05-07",
+  "updated": "2026-05-07",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -57,6 +57,7 @@
     "00609c257b.com",
     "00771944.xyz",
     "00857731.xyz",
+    "00a4722597.com",
     "00e2120672.com",
     "01168nl.com",
     "015ea24446.com",
@@ -515,6 +516,7 @@
     "2mg2ibr6b.de",
     "2mke5l187.de",
     "2mo3neop.de",
+    "2mpx9wr2u7ikinehxtngk1.cfd",
     "2mqx3qv6mu8iqrqmvcuv4p.rest",
     "2nn7r6bh1.de",
     "2nqmub5hzuxm4prm.cfd",
@@ -588,6 +590,7 @@
     "31def61c3.de",
     "31fbcecdf2.com",
     "31o0jl63.de",
+    "322xgowenfbuk4gq452j8qyrwnreg.rest",
     "32472254.xyz",
     "3258994ce4.com",
     "3278rmr2lbxnilx35iyhvmn.rest",
@@ -1181,6 +1184,7 @@
     "7ec5e0d805.com",
     "7ee7484ba9.com",
     "7eit28evocng5gjuu.rest",
+    "7f89d90c6f.com",
     "7fc0966988.com",
     "7fhginl5cekq8ykr5hc9bn26xwb.cfd",
     "7fkm2r4pzi.com",
@@ -1286,6 +1290,7 @@
     "8a6cc3f77f.com",
     "8ab16250fe.com",
     "8acd6b63f9.com",
+    "8aef6f3c8b.com",
     "8afb98c0d8.com",
     "8b0e465f3e.com",
     "8b317a773b.com",
@@ -1319,6 +1324,7 @@
     "8hwnenz8w55hiu3zxe.cfd",
     "8iwyq46mqienxi81izfmcc51yrpnb.rest",
     "8j1f0af5.de",
+    "8j1zn3bwc6nxoenc85o7p45mm8jj4.rest",
     "8jfbt5va3r.com",
     "8kbulkq2mbhzu8.rest",
     "8kj1ldt1.de",
@@ -2996,13 +3002,7 @@
     "ads3.virtual-nights.com",
     "ads4.gamecity.net",
     "ads4.virtual-nights.com",
-    "ads4g.pl",
-    "ads4homes.com",
-    "ads4media.online",
-    "ads4trk.com",
-    "ads5-adnow.com",
-    "ads5.virtual-nights.com",
-    "ads6-adnow.com"
+    "ads4g.pl"
   ],
   "youtubeSelectors": {
     "skipButtons": [
