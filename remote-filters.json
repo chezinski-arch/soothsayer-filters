@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-05-14",
-  "updated": "2026-05-14",
+  "version": "2026-05-15",
+  "updated": "2026-05-15",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -101,6 +101,7 @@
     "08d59ed715.com",
     "08e4efb6b8.com",
     "091kdjn7.xyz",
+    "09241190c8.com",
     "0924201a0b.com",
     "094kk.com",
     "096243309f.com",
@@ -323,6 +324,7 @@
     "1pqfa71mc.de",
     "1push.io",
     "1pxjj2lcmf52wom.rest",
+    "1qef9x9iyegn1upp5cvzej.rest",
     "1qgxtxd2n.com",
     "1r4g65b63.de",
     "1r8435gsqldr.com",
@@ -350,6 +352,7 @@
     "1xlite-522762.top",
     "1zce4c62iw8wfn.cfd",
     "1zhx13cm58j4tlz8g4c2cw.cfd",
+    "1zq5v8nrgq8m989b3e5ernh8i.rest",
     "2-05.com",
     "20002permission.net",
     "2020mustang.com",
@@ -1228,6 +1231,7 @@
     "7ec5e0d805.com",
     "7ee7484ba9.com",
     "7eit28evocng5gjuu.rest",
+    "7eute29l5li2c84umb.rest",
     "7f89d90c6f.com",
     "7fc0966988.com",
     "7fhginl5cekq8ykr5hc9bn26xwb.cfd",
@@ -1353,6 +1357,7 @@
     "8dafda749d.com",
     "8df0c9a696.com",
     "8dk5q9tp.xyz",
+    "8e484af735.com",
     "8ea1272194.com",
     "8eabd9b030.com",
     "8ec3bf7cbd.com",
@@ -1449,6 +1454,7 @@
     "98853171.xyz",
     "989d4c4ec9.com",
     "98cbb83e14.com",
+    "98h1vujk5m8oog.cfd",
     "993d52a9bd.com",
     "995be54914.com",
     "99892220ca.com",
@@ -2996,13 +3002,7 @@
     "ads.themovienation.com",
     "ads.thestar.com",
     "ads.thrillsaffiliates.com",
-    "ads.tiktok.com",
-    "ads.tmcs.net",
-    "ads.todoti.com.br",
-    "ads.toplayaffiliates.com",
-    "ads.townhall.com",
-    "ads.travelaudience.com",
-    "ads.trinitymirror.co.uk"
+    "ads.tiktok.com"
   ],
   "youtubeSelectors": {
     "skipButtons": [
