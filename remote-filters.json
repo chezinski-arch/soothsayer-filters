@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-05-21",
-  "updated": "2026-05-21",
+  "version": "2026-05-22",
+  "updated": "2026-05-22",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -298,6 +298,7 @@
     "1gbjadpsq.de",
     "1ghkxir44t4qvf3.cfd",
     "1hkmr7jb0.de",
+    "1hktucx6b1opyl9tig7pjm3ke9.rest",
     "1i8c0f11.de",
     "1igare0jn.de",
     "1itot7tm.de",
@@ -488,6 +489,7 @@
     "2ba0f6361c.com",
     "2bps53igop02.com",
     "2bwq4gig2n5o9hov74im5.rest",
+    "2c4b614013.com",
     "2c4rrl8pe.de",
     "2ch-d.fun",
     "2cjlj3c15.de",
@@ -555,6 +557,7 @@
     "2onq7kwbrfjbjv65.cfd",
     "2p1kreiqg.de",
     "2pc6q54ga.de",
+    "2pqjopz8mbw9qlxv3qzkci.rest",
     "2qj7mq3w4uxe.com",
     "2qkh3nbvi7y9xhoy.cfd",
     "2rb5hh5t6.de",
@@ -684,6 +687,7 @@
     "3999f86b91.com",
     "39e6p9p7.de",
     "39jbw3bog7xw3qmhkyno.rest",
+    "3a3df91b05.com",
     "3ae7054c01.com",
     "3af72b9c4c.com",
     "3b374de2ee.com",
@@ -866,6 +870,7 @@
     "4p74i5b6.de",
     "4pnoo6qi5f2x9zzmrouxhmeo.cfd",
     "4qrucb5jc61yo93t.rest",
+    "4r67xomxbqlxbueg739n38f65uhmwcxfy2o.cfd",
     "4rabettraff.com",
     "4rw6e11b4llf3ox5i4fx4kvu4gv3.rest",
     "4t9bm4ckuvnn62mkgpvrl3gb7iphylknookk.rest",
@@ -2997,12 +3002,7 @@
     "ads.okcimg.com",
     "ads.ole.com",
     "ads.oneplace.com",
-    "ads.opensubtitles.org",
-    "ads.optusnet.com.au",
-    "ads.outpersonals.com",
-    "ads.oxyshop.cz",
-    "ads.passion.com",
-    "ads.paymonex.net"
+    "ads.opensubtitles.org"
   ],
   "youtubeSelectors": {
     "skipButtons": [
