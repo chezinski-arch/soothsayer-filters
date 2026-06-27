@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-06-26",
-  "updated": "2026-06-26",
+  "version": "2026-06-27",
+  "updated": "2026-06-27",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -577,6 +577,7 @@
     "2p1kreiqg.de",
     "2p6tqu3qeurmf4lezm.cfd",
     "2pc6q54ga.de",
+    "2qh7mtw6yglvxnpc6pcm.cfd",
     "2qj7mq3w4uxe.com",
     "2qkh3nbvi7y9xhoy.cfd",
     "2rb5hh5t6.de",
@@ -775,6 +776,7 @@
     "3vetz.com",
     "3w27zp7ohnzouxyguckyy.rest",
     "3wr110.net",
+    "3wwhmhwojqmz838fpi8ubijuncnhkk.cfd",
     "3zji9h143hr1w15yv.cfd",
     "3znoji162fuxp71whii.cfd",
     "4000outinstruments.net",
@@ -1529,6 +1531,7 @@
     "9e83087e91.com",
     "9eb0066c79.com",
     "9eciqworz957hg.rest",
+    "9f88a926f4.com",
     "9f91b59591.com",
     "9fcd0e3ecc.com",
     "9fe32291ce.com",
@@ -1720,6 +1723,7 @@
     "abedhoneycastle.com",
     "abedwest.com",
     "abelestheca.com",
+    "abelianhatty.qpon",
     "abeoxtlq.com",
     "abergkxsuhitc.website",
     "abethow.com",
@@ -1950,6 +1954,7 @@
     "accustomedinaccessible.com",
     "accustomjumper.com",
     "acdcdn.com",
+    "acdkpbpzpjekb.website",
     "acdn01.vidox.net",
     "acdojsqocgvoj.online",
     "ace-adserver.com",
@@ -2997,12 +3002,7 @@
     "ads.newsint.co.uk",
     "ads.newsquest.co.uk",
     "ads.nj.com",
-    "ads.nola.com",
-    "ads.nordichardware.com",
-    "ads.nordichardware.se",
-    "ads.nyi.net",
-    "ads.nytimes.com",
-    "ads.nyx.cz"
+    "ads.nola.com"
   ],
   "youtubeSelectors": {
     "skipButtons": [
