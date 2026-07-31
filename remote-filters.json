@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-07-30",
-  "updated": "2026-07-30",
+  "version": "2026-07-31",
+  "updated": "2026-07-31",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -719,6 +719,7 @@
     "3434849c2e.com",
     "344d12bc9b.com",
     "345l5yutmz7lu5pbuqy17umn1m.cfd",
+    "349329f8bd.com",
     "34c7655983.com",
     "34d04ccb2e.com",
     "34f14f395e.com",
@@ -880,6 +881,7 @@
     "45b58980d0.com",
     "45tjghnuibkifpbc8.cfd",
     "45ubkhc4reuhu9j2ri2.cfd",
+    "45z5vr7tzn95693xbnu8.cfd",
     "460clarero.net",
     "460functions.net",
     "463v4yvm73x2ru.rest",
@@ -1162,6 +1164,7 @@
     "6402functions.net",
     "640vision.net",
     "64786087.xyz",
+    "64bf88068b.com",
     "64ce7c22c5.com",
     "64f5295d06.com",
     "64streamline.net",
@@ -1255,6 +1258,7 @@
     "6umn37i4z1fhe47ljkzb1wr.cfd",
     "6v41p4bsq.com",
     "6v5lljx5tj283h.rest",
+    "6wiv9qrwyqb4o2t4p4.cfd",
     "6wrmchzzrcfff2zp.cfd",
     "6wtznnfc58nofw166.cfd",
     "6x5zcncbhiufy4jy7nnh.rest",
@@ -1408,6 +1412,7 @@
     "7sz0wdk7.xyz",
     "7t5yfxub3pro6jolk.rest",
     "7ui7eny4lgwyfwk.cfd",
+    "7uj7tio72lyj98.cfd",
     "7w4f7nvo9j29zl6ptzqn2ft.cfd",
     "7wl4ewbiey6py5.cfd",
     "7wqnxuznr1zm15.cfd",
@@ -2145,6 +2150,7 @@
     "achcdn.com",
     "acheergigabitshamans.qpon",
     "achenesmuchly.rest",
+    "acheronmizzle.shop",
     "achewattmen.qpon",
     "acheworry.com",
     "achievablecpmrevenue.com",
@@ -2996,13 +3002,7 @@
     "ads-api.production.nebula-drupal.stuff.co.nz",
     "ads-api.stuff.co.nz",
     "ads-api.videy.co",
-    "ads-backend.chaincliq.com",
-    "ads-bilek.com",
-    "ads-bitcoin.com",
-    "ads-blocker.app",
-    "ads-blocker.pro",
-    "ads-dev.pinterest.com",
-    "ads-game-187f4.firebaseapp.com"
+    "ads-backend.chaincliq.com"
   ],
   "youtubeSelectors": {
     "skipButtons": [
