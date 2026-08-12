@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-08-11",
-  "updated": "2026-08-11",
+  "version": "2026-08-12",
+  "updated": "2026-08-12",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -324,6 +324,7 @@
     "1osb.com",
     "1p8ln1dtr.de",
     "1pqfa71mc.de",
+    "1puq9cnwjpgoxicjgu8co28k.rest",
     "1push.io",
     "1q86qcyjnhtwvq866p583b2n22ql1x.cfd",
     "1qgxtxd2n.com",
@@ -681,6 +682,7 @@
     "38458bd578.com",
     "384b0a562f.com",
     "38716dc244.com",
+    "38bllcuh4xngcz.cfd",
     "38d940fee0.com",
     "38ds89f8.de",
     "38ingress.com",
@@ -898,6 +900,7 @@
     "56ad42c3a8.com",
     "56bfc388bf12.com",
     "56ebl651j6t43r.cfd",
+    "56f76ea24e.com",
     "56rt2692.de",
     "56voxor.net",
     "570dad652f.com",
@@ -1046,6 +1049,7 @@
     "6bgaput9ullc.com",
     "6buueioe.xyz",
     "6by30.com",
+    "6c1afc5b6b.com",
     "6c7000c257.com",
     "6cfc27c30d.com",
     "6d092bcd12.com",
@@ -1898,6 +1902,7 @@
     "acs.woolworths.com.au",
     "acsaofatjaiau.store",
     "acscdn.com",
+    "actedmnesic.qpon",
     "actglimpse.com",
     "actiflex.org",
     "actingproductive.com",
@@ -2997,12 +3002,7 @@
     "adsbydelema.com",
     "adsbyt1.titus.one",
     "adscale.de",
-    "adscampaign.net",
-    "adschill.com",
-    "adscholar.com",
-    "adscience.nl",
-    "adscienceltd.com",
-    "adsco.re"
+    "adscampaign.net"
   ],
   "youtubeSelectors": {
     "skipButtons": [
