@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-09-02",
-  "updated": "2026-09-02",
+  "version": "2026-09-03",
+  "updated": "2026-09-03",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -123,6 +123,7 @@
     "0d4svwc7.xyz",
     "0d9063412c.com",
     "0d9539106a.com",
+    "0de7e3b709.com",
     "0e024d23f9.com",
     "0e091251b2.com",
     "0e176a58eb.com",
@@ -545,6 +546,7 @@
     "2jmis11eq.de",
     "2jod3cl3j.de",
     "2k6eh90gs.de",
+    "2k9lffmofworit6h9.rest",
     "2kn40j226.de",
     "2ko2x7p1orh92xo9.cfd",
     "2kpx4rtfphkjff.cfd",
@@ -582,6 +584,7 @@
     "2track.info",
     "2ts55ek00.de",
     "2u1b3gyc11t9z7y.cfd",
+    "2u9ggnguww18byc.rest",
     "2v378cds.xyz",
     "2vnrjqgl6jlmf3.cfd",
     "2xtzteoi16nl81kgk.cfd",
@@ -639,6 +642,7 @@
     "31def61c3.de",
     "31fbcecdf2.com",
     "31instances.com",
+    "31npe74m8qm5wjkmb5g7zhw.rest",
     "31o0jl63.de",
     "31outsystems.net",
     "320style.com",
@@ -910,6 +914,7 @@
     "5475a282b8.com",
     "548bxi4qcrtt82v.cfd",
     "549qgu3v7r8kr9.cfd",
+    "54yio5j1vx89zilm.cfd",
     "554koaylwga7.top",
     "5555voltaara.com",
     "555aeroon.net",
@@ -2158,6 +2163,7 @@
     "ad01.tmgrup.com.tr",
     "ad1.emule-project.org",
     "ad1.kde.cz",
+    "ad1n.net",
     "ad2.freeasianmovies.cam",
     "ad2.iinfo.cz",
     "ad2.lupa.cz",
@@ -2996,13 +3002,7 @@
     "ads.watson.ch",
     "ads.weather.ca",
     "ads.web.de",
-    "ads.webinak.sk",
-    "ads.webmasterpoint.org",
-    "ads.whoishostingthis.com",
-    "ads.wiezoekje.nl",
-    "ads.wikia.nocookie.net",
-    "ads.wineenthusiast.com",
-    "ads.wwe.biz"
+    "ads.webinak.sk"
   ],
   "youtubeSelectors": {
     "skipButtons": [
