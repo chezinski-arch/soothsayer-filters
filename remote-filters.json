@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-09-04",
-  "updated": "2026-09-04",
+  "version": "2026-09-05",
+  "updated": "2026-09-05",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -145,6 +145,7 @@
     "10242systems.com",
     "103092804.com",
     "104processors.net",
+    "106dddcb7e.com",
     "1080872514.rsc.cdn77.org",
     "1090pjopm.de",
     "10dc04504e.com",
@@ -254,6 +255,7 @@
     "18cc51d1fb.com",
     "18de296468.com",
     "18naked.com",
+    "18reg3x2vizczz644.cfd",
     "18tlm4jee.de",
     "18tocapture.com",
     "19515bia.de",
@@ -355,6 +357,7 @@
     "1ts24.top",
     "1tyt5qgk9ygxfjoe.rest",
     "1ufztt6mkpt1p1krt3.cfd",
+    "1v63he57umq4zkji44.rest",
     "1w1yhg23m2kzp4v.cfd",
     "1web.me",
     "1wincdn.b-cdn.net",
@@ -1242,6 +1245,7 @@
     "7ff9dd031a.com",
     "7fkm2r4pzi.com",
     "7functions.com",
+    "7hrpzo4n6x3mo2cq1rwuik4qcyckx8.rest",
     "7i3zqc25nbij9yr.cfd",
     "7ijflv7lomrlifjhxhobopq7.cfd",
     "7jo52b7qpyz4y76.rest",
@@ -1389,6 +1393,7 @@
     "8wtlp3rplgumqq.cfd",
     "8xut1wi2htoe5gj7rxitn.rest",
     "8yqqgn5g.xyz",
+    "8z1n8xclrp14kx6no3vmf.cfd",
     "9001car.com",
     "9001kolix.net",
     "900bets10.com",
@@ -2960,7 +2965,6 @@
     "ads.reward-hunt.com",
     "ads.samsung.com",
     "ads.saymedia.com",
-    "ads.schmoozecom.net",
     "ads.scifi.com",
     "ads.scored.co",
     "ads.seniorfriendfinder.com",
@@ -2998,11 +3002,7 @@
     "ads.uncrate.com",
     "ads.unison.bg",
     "ads.usatoday.com",
-    "ads.uxs.at",
-    "ads.v-lazer.com",
-    "ads.verticalresponse.com",
-    "ads.vgchartz.com",
-    "ads.viralize.tv"
+    "ads.uxs.at"
   ],
   "youtubeSelectors": {
     "skipButtons": [
