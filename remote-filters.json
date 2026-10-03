@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-10-02",
-  "updated": "2026-10-02",
+  "version": "2026-10-03",
+  "updated": "2026-10-03",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -473,6 +473,7 @@
     "28cb84740b.com",
     "28d8f2171f.com",
     "28f810077f.com",
+    "28xzk8gbfbmh3k.cfd",
     "290d8227a2.com",
     "291hkcido.de",
     "295ormrf3pcyjrh1lfgj2y7hj5.cfd",
@@ -554,6 +555,7 @@
     "2om93s33n.de",
     "2osb.com",
     "2p1kreiqg.de",
+    "2p63il4ecrnpt8k9vwmrcjuewg.cfd",
     "2pc6q54ga.de",
     "2puv6kvgycjmnqbic.cfd",
     "2qj7mq3w4uxe.com",
@@ -688,6 +690,7 @@
     "3999f86b91.com",
     "39d929a029.com",
     "39e6p9p7.de",
+    "3a2ffd59df.com",
     "3a3df91b05.com",
     "3ae7054c01.com",
     "3af72b9c4c.com",
@@ -858,6 +861,7 @@
     "50d46dda05.com",
     "50e7f2cef8.com",
     "50services.net",
+    "50websads.com",
     "51.la",
     "5101c555fc.com",
     "510a62f1a2.com",
@@ -1027,6 +1031,7 @@
     "66pxwy2r6q5v5qe.rest",
     "670brivis.net",
     "67c15249d7.com",
+    "67o3ee9ywrp69eqz7w.cfd",
     "680dd52882.com",
     "682immunity.net",
     "682n2ue6eftqn7l8jl.rest",
@@ -1440,6 +1445,7 @@
     "9l3s3fnhl.com",
     "9l5ss9l.de",
     "9lwl6rsk.xyz",
+    "9ojmoy453qqpoz6x83ve7.rest",
     "9pix81z88zgwz5x4vgybngofjlhzq2rvu92.cfd",
     "9pub.io",
     "9rfm2vt5ugn7mbni558vyn3lyf1vl7gv2wc4n.cfd",
@@ -1856,6 +1862,7 @@
     "ackcdn.net",
     "ackdewsntmybn.online",
     "ackfqyzrdulxc.space",
+    "ackkagqqqvdwh.online",
     "acknowledgepronounablaze.com",
     "ackprovided.com",
     "acktontables.com",
@@ -2995,14 +3002,7 @@
     "adsdk.bing.net",
     "adsdk.com",
     "adsdk.yandex.ru",
-    "adsdot.ph",
-    "adsend.de",
-    "adsenix.com",
-    "adsensecamp.com",
-    "adsensecustomsearchads.com",
-    "adserv.mobi",
-    "adserv.snigelweb.com",
-    "adserve.ams.rhythmxchange.com"
+    "adsdot.ph"
   ],
   "youtubeSelectors": {
     "skipButtons": [
@@ -3074,7 +3074,8 @@
       "+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots important)",
       ".ytlr-horizontal-list-renderer__items > .yt-virtual-list__container > .yt-virtual-list__item--visible.yt-virtual-list__item--selected.yt-virtual-list__item:has-text(Ad)",
       "+js(json-prune-fetch-response, reelWatchSequenceResponse.entries.[-].command.reelWatchEndpoint.adClientParams.isAd entries.[-].command.reelWatchEndpoint.adClientParams.isAd, , propsToMatch, url:/reel_watch_sequence?)",
-      "+js(json-prune, entries.[-].command.reelWatchEndpoint.adClientParams.isAd)"
+      "+js(json-prune, entries.[-].command.reelWatchEndpoint.adClientParams.isAd)",
+      "+js(trusted-json-edit-fetch-response, ..itemSectionRenderer.contents.*[?.adSlotRenderer], propsToMatch, /get_watch)"
     ]
   },
   "generalSelectors": [
