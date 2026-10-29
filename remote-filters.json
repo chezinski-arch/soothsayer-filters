@@ -1,7 +1,7 @@
 {
   "_readme": "Auto-generated daily by Soothsayer filter updater. Do not edit manually.",
-  "version": "2026-10-28",
-  "updated": "2026-10-28",
+  "version": "2026-10-29",
+  "updated": "2026-10-29",
   "blockDomains": [
     "33across.com",
     "ad.adsrvr.org",
@@ -700,6 +700,7 @@
     "3pkf5m0gd.com",
     "3pohpyurxxirl1mqtzj1mj2p1ftj.cfd",
     "3qfe1gfa.de",
+    "3r3zok58ihon3teu7vvggt.cfd",
     "3rw0usds.xyz",
     "3u3ymbqj.xyz",
     "3uoq2upcx3rfcqh6jtywr.cfd",
@@ -757,6 +758,7 @@
     "468923686d.com",
     "4690y10pvpq8.com",
     "47235645.xyz",
+    "475d3ea23c.com",
     "47b48d19d4.com",
     "480executors.net",
     "482e528949.com",
@@ -900,6 +902,7 @@
     "5df40cfbf3.com",
     "5dimes.com",
     "5e1jng5u4lfi5i9qqi.rest",
+    "5e57z52eg13ni9rrvcoh9qj.cfd",
     "5ee515d98a.com",
     "5f5afb50fa.com",
     "5f6dmzflgqso.com",
@@ -1247,6 +1250,7 @@
     "8m96jlrph4z8xgxy1ie.cfd",
     "8n67t.com",
     "8nkqg8j1iyn2vl63q2wbncx6x7b4m42f6p.cfd",
+    "8nqye9t119qtlmv8pc6ry8.rest",
     "8po6fdwjsym3.com",
     "8q4o3h575jbn9h4z.rest",
     "8s32e590un.com",
@@ -1344,6 +1348,7 @@
     "9e1b47e1b9.com",
     "9e6b5751c2.com",
     "9e9cb445eb.com",
+    "9f4hzrcfzhwnwjhw68qrqy4hq1o.rest",
     "9f88a926f4.com",
     "9fcd0e3ecc.com",
     "9fe32291ce.com",
@@ -1525,6 +1530,7 @@
     "abh.jp",
     "abideantiquarianinflict.com",
     "abidebrokestow.com",
+    "abidersstaio.com",
     "abiencerheas.com",
     "abilaefax.com",
     "abjectexcessatheism.com",
@@ -2996,13 +3002,7 @@
     "adsolut.in",
     "adsolutely.com",
     "adsonar.com",
-    "adsparc.net",
-    "adspdbl.com",
-    "adspector.io",
-    "adspeed.com",
-    "adspeed.net",
-    "adspirit.de",
-    "adsplay.in"
+    "adsparc.net"
   ],
   "youtubeSelectors": {
     "skipButtons": [
